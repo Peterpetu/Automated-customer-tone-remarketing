@@ -12,7 +12,7 @@ Automated Customer Tone Remarketing is an project that leverages AI and automati
 - **Automation**: Fully automated workflow for scalability across platforms.
 
 ## Technologies
-- **LangChain**: Enables automation and scaling of marketing tactics.
+- **LangChain**: Enables AI automation and scaling of marketing tactics.
 - **GPT-3.5**: Utilized for summarizing reviews and writing ad copy.
 - **Pinecone**: Incorporated for vector storage and filtered search.
 - **Zapier**: Used for email processing and automation.
